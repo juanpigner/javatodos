@@ -1,0 +1,2 @@
+https://tcorral.github.io/javascript-challenges-book/index.html
+https://github.com/burhannn/33-js-concepts
